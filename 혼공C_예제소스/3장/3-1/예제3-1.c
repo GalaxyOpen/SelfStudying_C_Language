@@ -21,3 +21,7 @@ int main(void)
 
 	return 0;
 }
+
+// 정수는 int, 실수는 double, 문자는 char, 문자열은 char 배열을 사용 
+// int a; 에서 int는 자료형, a는 변수명 
+// int b, c; 처럼 동시에 변수를 선언도 가능. 
