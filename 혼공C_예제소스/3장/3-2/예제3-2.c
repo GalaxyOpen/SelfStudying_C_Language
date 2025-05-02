@@ -10,3 +10,11 @@ int main(void)
 
 	return 0;
 }
+
+/*
+char : 1바이트 (8비트)
+short : 2바이트 
+int : 4바이트
+long : 4바이트
+long long : 8바이트
+*/
