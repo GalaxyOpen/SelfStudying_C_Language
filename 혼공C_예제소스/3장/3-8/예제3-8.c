@@ -1,3 +1,4 @@
+// const 사용해보기. const로 선언한 변수는 그 값을 바꿀 수 없다. 
 #include <stdio.h>
 
 int main(void)
@@ -12,3 +13,5 @@ int main(void)
 
 	return 0;
 }
+
+// 즉, 처음 선언할 때 값을 지정(초기화)해줘야만 한다. 
