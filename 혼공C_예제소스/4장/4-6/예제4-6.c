@@ -1,3 +1,4 @@
+// 논리 연산자 : AND(&&) , OR(||), NOT(!)
 #include <stdio.h>
 
 int main(void)
