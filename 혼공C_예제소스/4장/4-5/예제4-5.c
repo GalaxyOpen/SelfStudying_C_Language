@@ -1,3 +1,4 @@
+// 관계 연산자 <, =<, >, =>, ==, != 
 #include <stdio.h>
 
 int main(void)
