@@ -24,3 +24,5 @@ int main(void)
 
 	return 0;
 }
+
+// sizeof 함수 이용하여 변수의 주소 크기와 포인터 크기 확인해보기 
